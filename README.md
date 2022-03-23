@@ -23,3 +23,8 @@
 - Location: [your closet](https://image.shutterstock.com/image-photo/dark-wood-closet-inside-house-260nw-1557739319.jpg)
 
 - Languages: [English](https://dictionary.cambridge.org/), [Python](https://python.org), [Batch](https://en.wikipedia.org/wiki/Batch_file) and parts of [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS) and [JS](https://en.wikipedia.org/wiki/JS).
+
+
+# Contact Me
+
+You can contact me via [Discord](https://dsc.gg/rewind) or with [Email](mailto:swev.lol@gmail.com)
