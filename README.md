@@ -5,12 +5,12 @@
 
 # Socials
 
-- Discord | [Server](https://dsc.gg/rewind), Swev#9999, swev#9999
+- Discord  | [Server](https://dsc.gg/rewind), Swev#9999, swev#9999
 
-- Tiktok | [@cc](https://tiktok.com/@cc), [@vlzo](https://tiktok.com/@vlzo), [@payrollday](https://tiktok.com/@payrollday)
+- Tiktok   | [@cc](https://tiktok.com/@cc), [@vlzo](https://tiktok.com/@vlzo), [@payrollday](https://tiktok.com/@payrollday)
 
 - Youtube | [@cc](https://www.youtube.com/channel/UCuR2lDJscysjCR10CyjPztw)
 
-- Solo.to | [@skatepark](https://solo.to/skatepark), [@crossbars](https://solo.to/crossbars), [@receptive](https://solo.to/receptive)
+- Solo.to   | [@skatepark](https://solo.to/skatepark), [@crossbars](https://solo.to/crossbars), [@receptive](https://solo.to/receptive)
 
-- Github | [@8fo](https://github.com/8fo), [@9yp](https://github.com/9yp)
+- Github   | [@8fo](https://github.com/8fo), [@9yp](https://github.com/9yp)
