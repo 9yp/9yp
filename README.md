@@ -27,4 +27,4 @@
 
 # Contact Me
 
-You can contact me via [my Discord server](https://dsc.gg/rewind) or add me on [Discord](https://discord.com) at Swe#9999 or swev#9999
+You can contact me via [my Discord server](https://dsc.gg/rewind) or add me on [Discord](https://discord.com) at Swev#9999 or swev#9999
