@@ -20,6 +20,6 @@
 
 - Name: Deniz
 
-- Location: your closet
+- Location: [your closet](https://image.shutterstock.com/image-photo/dark-wood-closet-inside-house-260nw-1557739319.jpg)
 
-- Languages: English, Python, Batch and parts of HTML, CSS and JS.
+- Languages: [English](https://dictionary.cambridge.org/), [Python](https:/python.org), [Batch](https://en.wikipedia.org/wiki/Batch_file) and parts of [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS) and [JS](https://en.wikipedia.org/wiki/JS).
