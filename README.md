@@ -27,4 +27,4 @@
 
 # Contact Me
 
-You can contact me via [Discord](https://dsc.gg/rewind) or with [Email](mailto:swev.lol@gmail.com)
+You can contact me via [Discord](https://dsc.gg/rewind)!
