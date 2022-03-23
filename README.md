@@ -5,7 +5,7 @@
 
 # Socials
 
-- [Discord](https://dsc.gg/rewind)
+- Discord | [Server](https://dsc.gg/rewind), Swev#9999, swev#9999
 
 - Tiktok   | [@cc](https://tiktok.com/@cc), [@vlzo](https://tiktok.com/@vlzo), [@payrollday](https://tiktok.com/@payrollday)
 
