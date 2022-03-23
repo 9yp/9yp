@@ -14,3 +14,12 @@
 - [Solo.to](https://solo.to): [@skatepark](https://solo.to/skatepark), [@crossbars](https://solo.to/crossbars), [@receptive](https://solo.to/receptive)
 
 - [Github](https://github.com): [@8fo](https://github.com/8fo), [@9yp](https://github.com/9yp)
+
+
+# About Me
+
+- Name: Deniz
+
+- Location: your closet
+
+- Languages: English, Python, Batch and parts of HTML, CSS and JS.
